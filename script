@@ -21,7 +21,7 @@ ImageButton.BackgroundColor3 = Color3.new(1, 1, 1)
 ImageButton.BorderSizePixel = 0
 ImageButton.Position = UDim2.new(0.306653798, 0, 0.101391658, 0)
 ImageButton.Size = UDim2.new(0, 400, 0, 400)
-ImageButton.Image = "http://www.roblox.com/asset/?id=5136300631"
+ImageButton.Image = "http://www.roblox.com/asset/?id=57653546"
 
 TextLabel.Parent = ImageButton
 TextLabel.BackgroundColor3 = Color3.new(1, 1, 1)
